@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>王畅 - 基本信息 - 自我简介</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <h1>王畅 - 基本信息 - 自我简介</h1>
+  <p>姓名：王畅</p>
+  <p>性别：女</p>
+  <p>年龄：19</p>
+  <p>生日：8.20.</p>
+  <p>学校：北方工业大学</p>
+  <p>专业：信息安全</p>
+</body>
+</html>
